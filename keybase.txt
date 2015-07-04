@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/scarytom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://scarytom.com
+  * I am scarytom (https://keybase.io/scarytom) on keybase.
+  * I have a public key with fingerprint C819 4255 49F4 4CD5 8DCC  8BB7 E409 354C FB27 2F39
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c819425549f44cd58dcc8bb7e409354cfb272f39",
+            "host": "keybase.io",
+            "key_id": "e409354cfb272f39",
+            "kid": "0101b2423d71d811584277370dee99860123b445114dfa9784a4a3665135e05ff28f0a",
+            "uid": "196b8d2c7e68dbd924ecd010fb391a00",
+            "username": "scarytom"
+        },
+        "revoke": {
+            "sig_ids": [
+                "b41344135b57212aafe1d6f24d26648b1975fbe285afb1ea746cc3d4a32e697a0f"
+            ]
+        },
+        "service": {
+            "hostname": "scarytom.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1436023203,
+    "expire_in": 157680000,
+    "prev": "3017502816973407c246c67b8891d5baf2eb0cfbb4ea2b167de16a7398e0ba41",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMJgAnicbVJbaFRHGN64xpBoqBG11O1LR0qpCXGuZ+Zs220eDAjS+lBailHXmTNz
+4mmSPZuzJxtTG2otrUbaIhSRalMoEav0oYpgRElIRCMS8CGKiLdUBcFLbBHBS/eh
+c0L7UjowDPP/3//93385U59O1VUdHhtevOl6eWfV5PiPPakP9z4f2gpUqPtAdivo
+MLOPHxTaTVSMgkIMssATyKWYMer6lHqaCe15QiluKHQJo56vMMc+cUET2ByWkghL
+o2TJNAehtdlPPtDW+j/4jlkHRBApTDHRHGmBEBMUc0441Ma4rnAgwkRRyhCi2pcu
+F1RSSRyHIcIMZL6PhQ+lpeuZpUOuo4TGHjeO0Eq7mBpP2xy+Ii6SECbAkokKsstY
+dMmTUV8cdoH+JhCZcthhkg6UgnYrugSybUBRRKi9TDGOEZbSN0g7PqYaOw4VCrmc
++cpgwaSvkJGcOp5HtFWIjeNyCX2wwXLbjOXAmyVPuvSf7M2eVdAEilEYh17YaT2b
+47iYTUTFfcUE2WtU/h+OvAoK2o7IBpRNVArCAsgii/TiICFFlDgQEwxJEzBbikFk
+8kGCYNwR0J4kjSlbSgIRZxALZGUSCrmHrXSHKyFcpJmSPjYK2nEpaiRWyOHaIEdy
+4goDlaQIJFV1F0KQda1M2Z7UE7QXZNwTGdB/emz93FRVXWpe9ZxkyVJ1tQv/Xb1l
+LTWV2vfmXepeNr7x9u7qZ9NTe6bfPPraqhYx+c7bl3OVZ2vrjhTu3/m2kaXvLaDs
+3rWHadqwd2q0+/FafMDfd2Pl3Eed6fzZ+Vk6MHCgddtqdHz1qaGvK/Jx37HrU9sP
+DTz4iFwdAG/9ebr+ty9LSxa0jPV+3jqa7x303udPO7sWZd797Nxf6RVl+OT7X/df
+OL6t0jElyj9X9ODdr5bsWjqyo3GkZiiz5dbw5Q1fZPZ9ktvTkFunUvEr41drXm+b
+HLw255uJK8tnPvhpevhg/o3ty0/uennxiZujw4/mz6xasz/Hhuovnl+5Ozfx0rkT
+bbfJizW/PH319z8m+oN8rfvdD6OZhR9nDs48/PTF38ZWQzU=
+=VFDm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scarytom
+
+==================================================================
