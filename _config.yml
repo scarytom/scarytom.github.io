@@ -1,0 +1,30 @@
+title: scarytom.com
+description: Frightening thoughts on software and stuff
+
+url: http://scarytom.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Welcome
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Footprint
+   url: /footprint
+ - title: Software
+   url: /software
+ - title: Contact
+   url: /contact
+
+social:
+   github: scarytom
+   twitter: scarytom
+   email: contact@scarytom.com
+
+google_analytics: "UA-12943145-3"
