@@ -821,7 +821,6 @@ dd {
     line-height: 3em;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 800;
-    text-transform: uppercase
 }
 .header h1 a {
     color: white;
@@ -1101,7 +1100,7 @@ dd {
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
-        max-width: 800px;
+        max-width: 450px;
         margin-left: auto;
         margin-right: auto
     }

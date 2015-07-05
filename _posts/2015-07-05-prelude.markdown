@@ -5,6 +5,6 @@ date:   2015-07-05
 image:  previous_site.png
 ---
 
-<p class="intro"><span class="dropcap">W</span>armest greetings. Welcome to the latest incarnation of scarytom.com</p>
+<p class="intro"><span class="dropcap">W</span>armest greetings. Welcome to the latest incarnation of scarytom.com.</p>
 
-<p>For posterity, the featured image here is a screenshot of the old site, which was architected as dynamic site using Drupal, but featured static content for nearly 10 years.  This site is statically generated using Jekyll and, hopefully, will feature more dynamic content.</p>
+For posterity, the featured image here is a screenshot of the old site, which was architected as dynamic site using Drupal, but featured static content for nearly 10 years.  This site is statically generated using Jekyll and, hopefully, will feature more dynamic content.
